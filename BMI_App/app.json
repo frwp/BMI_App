@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "BMI_App",
+    "slug": "BMI_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon-32x32.png",
+    "splash": {
+      "image": "./assets/android-chrome-512x512.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/android-chrome-512x512.png"
+    }
+  }
+}
