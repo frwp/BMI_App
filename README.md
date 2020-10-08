@@ -5,6 +5,8 @@ Created using:
 - Express, and 
 - Firebase Functions
 
+Due to all the framework used, this project sripted solely on Javascript, with some typescript combinations
+
 This app is subject to assignment of software development class.
 Body mass index (BMI) is a value derived from the mass (weight) and height of a person.
 The BMI is defined as the body mass divided by the square of the body height,
